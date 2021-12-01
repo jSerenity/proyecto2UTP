@@ -1,0 +1,13 @@
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\bin\Debug\netcoreapp3.1\Capa_servicios.deps.json
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\bin\Debug\netcoreapp3.1\Capa_servicios.dll
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\bin\Debug\netcoreapp3.1\Capa_servicios.pdb
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.vbproj.AssemblyReference.cache
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.AssemblyInfoInputs.cache
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.AssemblyInfo.vb
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.vbproj.CoreCompileInputs.cache
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.vbproj.CopyComplete
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.dll
+C:\Users\jpinzon\source\repos\PROYECTO02\Capa_servicios\obj\Debug\netcoreapp3.1\Capa_servicios.pdb
