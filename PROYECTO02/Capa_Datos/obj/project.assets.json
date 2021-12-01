@@ -454,23 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpinzon\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Juan Pinzon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj",
+      "projectUniqueName": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj",
       "projectName": "Capa_Datos",
-      "projectPath": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj",
-      "packagesPath": "C:\\Users\\jpinzon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO02\\Capa_Datos\\obj\\",
+      "projectPath": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj",
+      "packagesPath": "C:\\Users\\Juan Pinzon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jpinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juan Pinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -516,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
