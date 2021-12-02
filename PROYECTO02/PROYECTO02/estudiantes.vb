@@ -229,23 +229,25 @@ Public Class estudiantes
 
     Private Function validateValues()
         Dim result As Boolean = True
-        If (Not objValidate.ValidarLetras(txtnombre.Text)) Then
+        If Not objValidate.ValidarNumero(txtCedula.Text) Then
+            MessageBox.Show("cedula: " + txtCedula.Text + " no valida, solo números")
+            result = False
+        ElseIf (Not objValidate.ValidarLetras(txtnombre.Text)) Then
             MessageBox.Show("el nombre: " + txtnombre.Text + " no valido")
             result = False
-        ElseIf Not objValidate.Validarcorreo(txtcorreo.Text) Then
-            MessageBox.Show("correo: " + txtcorreo.Text + " no es un correo, ejemplo@correo.com")
-            result = False
+
         ElseIf Not objValidate.ValidarLetras(txtapellido.Text) Then
             MessageBox.Show("el apellido: " + txtapellido.Text + " no valido")
             result = False
         ElseIf Not objValidate.ValidarLetras(txtdireccion.Text) Then
             MessageBox.Show("direccion: " + txtdireccion.Text + " no valida")
             result = False
-        ElseIf Not objValidate.ValidarNumero(txtCedula.Text) Then
-            MessageBox.Show("cedula: " + txtCedula.Text + " no valida, solo números")
-            result = False
+
         ElseIf Not objValidate.ValidarNumero(txtcelular.Text) Then
             MessageBox.Show("celular: " + txtcelular.Text + " no valido, solo números")
+            result = False
+        ElseIf Not objValidate.Validarcorreo(txtcorreo.Text) Then
+            MessageBox.Show("correo: " + txtcorreo.Text + " no es un correo, ejemplo@correo.com")
             result = False
         ElseIf cbFacultad.SelectedIndex < 0 Then
             MessageBox.Show("debe seleccionar una facultad")
@@ -265,16 +267,22 @@ Public Class estudiantes
                     MessageBox.Show("indice: " + txtindice.Text + " no valido, valor entre 0 y 3")
                     result = False
                 End If
+            Else
+                MessageBox.Show("indice: " + txtindice.Text + " no valido, valor entre 0 y 3")
+                result = False
+            End If
+
+        End If
+        If (result) Then
+            If cbsexo.SelectedIndex < 0 Then
+                MessageBox.Show("debe seleccionar el sexo")
+                result = False
+            ElseIf cbestado.SelectedIndex < 0 Then
+                MessageBox.Show("debe seleccionar el estatus")
+                result = False
             End If
         End If
 
-        If cbsexo.SelectedIndex < 0 Then
-            MessageBox.Show("debe seleccionar el sexo")
-            result = False
-        ElseIf cbestado.SelectedIndex < 0 Then
-            MessageBox.Show("debe seleccionar el estatus")
-            result = False
-        End If
         Return result
     End Function
 End Class

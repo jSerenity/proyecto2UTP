@@ -18,3 +18,13 @@ C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.vbproj.CoreCompileInputs.cache
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.dll
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.deps.json
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.vbproj.AssemblyReference.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfoInputs.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfo.vb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.vbproj.CoreCompileInputs.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.pdb

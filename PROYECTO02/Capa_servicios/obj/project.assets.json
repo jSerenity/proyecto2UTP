@@ -472,19 +472,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Juan Pinzon\\.nuget\\packages\\": {}
+    "C:\\Users\\jpinzon\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\Capa_servicios.vbproj",
+      "projectUniqueName": "C:\\Users\\jpinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\Capa_servicios.vbproj",
       "projectName": "Capa_servicios",
-      "projectPath": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\Capa_servicios.vbproj",
-      "packagesPath": "C:\\Users\\Juan Pinzon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\obj\\",
+      "projectPath": "C:\\Users\\jpinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\Capa_servicios.vbproj",
+      "packagesPath": "C:\\Users\\jpinzon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jpinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_servicios\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Juan Pinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jpinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -498,8 +502,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj": {
-              "projectPath": "C:\\Users\\Juan Pinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj"
+            "C:\\Users\\jpinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj": {
+              "projectPath": "C:\\Users\\jpinzon\\Documents\\UTP\\proyecto2UTP\\PROYECTO02\\Capa_Datos\\Capa_Datos.vbproj"
             }
           }
         }
@@ -528,7 +532,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

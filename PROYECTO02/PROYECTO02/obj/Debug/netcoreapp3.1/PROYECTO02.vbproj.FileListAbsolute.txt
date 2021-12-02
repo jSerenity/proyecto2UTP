@@ -58,3 +58,33 @@ C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.dll
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.pdb
 C:\Users\Juan Pinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.genruntimeconfig.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.exe
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.deps.json
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.runtimeconfig.json
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.runtimeconfig.dev.json
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\PROYECTO02.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\Capa_servicios.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\Capa_servicios.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.vbproj.AssemblyReference.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.estudiantes.resources
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.Form1.resources
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.presentation.resources
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.Profesores.resources
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.vbproj.GenerateResource.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.AssemblyInfoInputs.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.AssemblyInfo.vb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.vbproj.CoreCompileInputs.cache
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.vbproj.CopyComplete
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.dll
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.pdb
+C:\Users\jpinzon\Documents\UTP\proyecto2UTP\PROYECTO02\PROYECTO02\obj\Debug\netcoreapp3.1\PROYECTO02.genruntimeconfig.cache
